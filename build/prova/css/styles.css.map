@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","styles.css"],"names":[],"mappings":"AACA,MCAA,MACA,MDEC,MAAA,MACA,OAAA","file":"styles.css","sourcesContent":["\r\n#but1,\r\n#but2,\r\n#but3 {\r\n\twidth: 170px;\r\n\theight: 40px;\r\n}\r\n","#but1,\n#but2,\n#but3 {\n  width: 170px;\n  height: 40px;\n}"],"sourceRoot":"/source/"}
